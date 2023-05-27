@@ -1,6 +1,6 @@
 <template>
   <!-- <main class="container-xl h-screen flex justify-center items-center bg-zinc-100"> -->
-  <div class="w-full h-screen flex justify-center items-center bg-zinc-100">
+  <div class="w-full flex justify-center items-center bg-zinc-100">
     <el-container class="max-w-[1200px] w-full">
       <el-main>
         <el-card class="w-full h-full rounded-[4%]">
